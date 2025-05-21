@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dark-violet-820a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "742b9cb2-6e5a-4483-ac36-aa226c24e70f",
+      "database_name": "broad-art-ee07-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
